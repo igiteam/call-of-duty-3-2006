@@ -1,13 +1,12 @@
-
-# cod3_hd
+# call_of_duty_3_2006
 ## Call Of Duty 3 — HD Remake
 Call of Duty 3 HD version
 
 ## GitHub Treeview
-[https://treegit.macosxjs.com/?url=igiteam/cod3_hd](https://treegit.macosxjs.com/?url=igiteam/cod3_hd)
+[https://treegit.macosxjs.com/?url=igiteam/call_of_duty_3_2006](https://treegit.macosxjs.com/?url=igiteam/call_of_duty_3_2006)
 
 ## GitHub Tree API (Direct JSON)
-[https://api.github.com/repos/igiteam/cod3_hd/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/cod3_hd/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/call_of_duty_3_2006/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/call_of_duty_3_2006/git/trees/main?recursive=1)
 
 ## Call Of Duty 3 — the base of the gameplay
 [![Watch the video](https://img.youtube.com/vi/KQEUcrwZQ_E/maxresdefault.jpg)](https://www.youtube.com/watch?v=KQEUcrwZQ_E)
