@@ -1,6 +1,6 @@
 # call-of-duty-3-2006
 ## Call Of Duty 3 — HD Remake
-Call of Duty 3 HD version
+Call of Duty 3 - COD 2003 / UO / COD2 / Big Red One / Finest Hour / Final Fronts
 
 ## GitHub Treeview
 [https://treegit.macosxjs.com/?url=igiteam/call-of-duty-3-2006](https://treegit.macosxjs.com/?url=igiteam/call-of-duty-3-2006)
