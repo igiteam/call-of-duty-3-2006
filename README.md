@@ -15,6 +15,8 @@ Call of Duty 3 HD version
 
 [![Watch the video](https://img.youtube.com/vi/b1nE2SDYxac/maxresdefault.jpg)](https://www.youtube.com/watch?v=b1nE2SDYxac)
 
+[![Call Of Duty: World At War Final Fronts](https://img.youtube.com/vi/BnHinnR_o8E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Qm5IaW5uUl9vOEU)
+
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -25,13 +27,15 @@ Call of Duty 3 HD version
 # Call of Duty Collection
 [![Call of Duty](https://cdn.mobygames.com/covers/4083905-call-of-duty-windows-front-cover.jpg)](https://archive.org/details/CallOfDutyUSAEurope)
 
-[![Call of Duty: United Offensive](https://cdn.mobygames.com/covers/4170848-call-of-duty-united-offensive-windows-front-cover.jpg)](https://archive.org/details/CallOfDutyUnitedOffensiveUSAEurope)
+[![Call of Duty United Offensive](https://cdn.mobygames.com/covers/4170848-call-of-duty-united-offensive-windows-front-cover.jpg)](https://archive.org/details/CallOfDutyUnitedOffensiveUSAEurope)
 
-[![Call of Duty: Finest Hour](https://cdn.mobygames.com/covers/4559290-call-of-duty-finest-hour-xbox-front-cover.jpg)](https://vimm.net/vault/26737)
+[![Call of Duty Finest Hour](https://cdn.mobygames.com/covers/4559290-call-of-duty-finest-hour-xbox-front-cover.jpg)](https://vimm.net/vault/26737)
+
+[![Call of Duty World At War Final Fronts](https://raw.githubusercontent.com/igiteam/call-of-duty-3-2006/refs/heads/main/call-of-duty-world-at-war-final-fronts.png)](https://vimm.net/vault/8033)
 
 [![Call of Duty 2](https://cdn.mobygames.com/covers/20494583-call-of-duty-2-windows-front-cover.jpg)](https://archive.org/details/callofduty2usa)
 
-[![Call of Duty 2: Big Red One](https://cdn.mobygames.com/covers/5094618-call-of-duty-2-big-red-one-xbox-front-cover.jpg)](https://vimm.net/vault/26663)
+[![Call of Duty 2 Big Red One](https://cdn.mobygames.com/covers/5094618-call-of-duty-2-big-red-one-xbox-front-cover.jpg)](https://vimm.net/vault/26663)
 
 [![Call of Duty 3](https://cdn.mobygames.com/covers/5364169-call-of-duty-3-xbox-front-cover.jpg)](https://vimm.net/vault/15239)
 
