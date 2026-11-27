@@ -46,6 +46,10 @@ Call of Duty 3 - COD 2003 / UO / COD2 / Big Red One / Finest Hour / Final Fronts
 
 [https://github.com/igiteam/COD2-BRO-XBERecomp](https://github.com/igiteam/COD2-BRO-XBERecomp)
 
+[https://www.mediafire.com/file/1wlh7zjys6p986l/UO2ktexturesv1.rar/file](https://www.mediafire.com/file/1wlh7zjys6p986l/UO2ktexturesv1.rar/file)
+
+[https://www.mediafire.com/file/1ktq6npki9yc1kw/CoD2kTextures.rar/file](https://www.mediafire.com/file/1ktq6npki9yc1kw/CoD2kTextures.rar/file)
+
 [https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907](https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907)
 
 ---
